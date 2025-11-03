@@ -1,11 +1,4 @@
-
-Mr. Akhil Panchal
-E-Mail: Panchal.akhil1191@gmail.com
-Cell: +91 9146011991  
-                   
-
-
-  Profile Summary
+Profile Summary
 
 *  Cybersecurity Analyst with 1 year of experience in threat monitoring, vulnerability management, Skilled in Proficient with tools like Wazuh, Nessus, Wireshark, and Kali Linux. Committed to maintaining confidentiality, integrity, and availability of organizational         assets while continuously improving security posture.
 * System Administrator with 7+ Years of work experience in managing and maintaining IT infrastructure
